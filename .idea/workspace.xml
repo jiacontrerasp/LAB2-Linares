@@ -6,7 +6,10 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f256c2b5-832f-47af-becb-2a14c1448304" name="Default" comment="" />
+    <list default="true" id="f256c2b5-832f-47af-becb-2a14c1448304" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FillUp" afterPath="$PROJECT_DIR$/FillUp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Fillup.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -65,8 +68,8 @@
       <file leaf-file-name="GasLog.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FillUp/src/com/github/wdkapps/fillup/GasLog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5539359">
-              <caret line="308" column="41" selection-start-line="308" selection-start-column="41" selection-end-line="308" selection-end-column="41" />
+            <state vertical-scroll-proportion="0.4052478">
+              <caret line="305" column="70" selection-start-line="305" selection-start-column="70" selection-end-line="305" selection-end-column="70" />
               <folding />
             </state>
           </provider>
@@ -500,8 +503,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FillUp/src/com/github/wdkapps/fillup/GasLog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5539359">
-          <caret line="308" column="41" selection-start-line="308" selection-start-column="41" selection-end-line="308" selection-end-column="41" />
+        <state vertical-scroll-proportion="0.4052478">
+          <caret line="305" column="70" selection-start-line="305" selection-start-column="70" selection-end-line="305" selection-end-column="70" />
           <folding />
         </state>
       </provider>
